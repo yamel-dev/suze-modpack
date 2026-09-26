@@ -1,6 +1,7 @@
 name = "Macaw's Windows"
 filename = "mcw-windows-2.4.2-mc26.2fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/C7I0BCni/versions/sNXCQQn1/mcw-windows-2.4.2-mc26.2fabric.jar"

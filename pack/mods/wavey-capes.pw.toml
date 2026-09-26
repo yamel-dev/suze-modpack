@@ -1,6 +1,7 @@
 name = "Wavey Capes"
 filename = "waveycapes-fabric-1.11.2-mc26.2.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/lgCaDv04/waveycapes-fabric-1.11.2-mc26.2.jar"

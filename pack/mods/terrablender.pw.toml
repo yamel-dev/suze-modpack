@@ -1,6 +1,7 @@
 name = "TerraBlender"
 filename = "TerraBlender-fabric-26.2-26.2.0.0.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/KQix25Qc/TerraBlender-fabric-26.2-26.2.0.0.2.jar"

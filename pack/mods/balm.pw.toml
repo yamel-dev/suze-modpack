@@ -1,6 +1,7 @@
 name = "Balm"
 filename = "balm-fabric-26.2-26.2.0.9.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/qLWYe5p7/balm-fabric-26.2-26.2.0.9.jar"

@@ -1,6 +1,7 @@
 name = "AddonsLib"
 filename = "addonslib-fabric-26.2-1.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/1jpMrkEZ/addonslib-fabric-26.2-1.0.jar"

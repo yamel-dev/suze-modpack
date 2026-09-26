@@ -1,6 +1,7 @@
 name = "Macaw's Furniture"
 filename = "mcw-furniture-3.4.2-mc26.2fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/dtWC90iB/versions/ptL25rVF/mcw-furniture-3.4.2-mc26.2fabric.jar"

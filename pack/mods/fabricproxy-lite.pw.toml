@@ -1,6 +1,7 @@
 name = "FabricProxy-Lite"
 filename = "FabricProxy-Lite-2.12.0.jar"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/8dI2tmqs/versions/CsEpiziv/FabricProxy-Lite-2.12.0.jar"

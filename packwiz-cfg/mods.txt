@@ -107,5 +107,5 @@ drippy-loading-screen client
 spiffyhud client
 konkrete client
 melody client
-placeholder-api client
-cloth-config client
+placeholder-api both
+cloth-config both

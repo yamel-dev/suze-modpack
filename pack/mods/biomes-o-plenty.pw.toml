@@ -1,6 +1,7 @@
 name = "Biomes O' Plenty"
 filename = "BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/HXF82T3G/versions/MNZPk6V0/BiomesOPlenty-fabric-26.2-26.2.0.0.28.jar"

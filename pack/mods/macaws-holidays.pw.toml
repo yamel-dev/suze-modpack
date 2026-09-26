@@ -1,6 +1,7 @@
 name = "Macaw's Holidays"
 filename = "mcw-holidays-1.1.2-mc26.2fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/ywr8gBXB/mcw-holidays-1.1.2-mc26.2fabric.jar"
