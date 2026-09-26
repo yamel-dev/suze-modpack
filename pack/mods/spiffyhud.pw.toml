@@ -1,0 +1,13 @@
+name = "SpiffyHUD"
+filename = "spiffyhud_fabric_3.1.3_MC_26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wtOPHICQ/versions/pcI9ifru/spiffyhud_fabric_3.1.3_MC_26.2.jar"
+hash-format = "sha512"
+hash = "85c25acaebd9825e2ea6956ec030df322ebdd409a18c6a47b1a8ac2bc90c7af7b576ae425b45e14d258cdfbe1a58542c59c91bc4753c1fadcfdc99ba53964f25"
+
+[update]
+[update.modrinth]
+mod-id = "wtOPHICQ"
+version = "pcI9ifru"

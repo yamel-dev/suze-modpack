@@ -1,0 +1,4 @@
+{
+  "criteria": { "join": { "trigger": "minecraft:tick" } },
+  "rewards": { "function": "hub:first_join" }
+}

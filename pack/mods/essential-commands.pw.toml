@@ -1,0 +1,13 @@
+name = "Essential Commands"
+filename = "essential_commands-0.41.0-mc26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/QvCRhAmG/essential_commands-0.41.0-mc26.2.jar"
+hash-format = "sha512"
+hash = "e70b62784e5dd0e41477cd0d9184a6da11c62f9f53899dd5309742a43ccf6c0abd4faddbc942799e94edb37daf88d09a0af66f99202c8e199ee465f98732c919"
+
+[update]
+[update.modrinth]
+mod-id = "6VdDUivB"
+version = "QvCRhAmG"

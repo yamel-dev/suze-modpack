@@ -1,0 +1,111 @@
+# <modrinth-slug> <side> [version]     side = client | server | both
+# A third column pins that mod to an exact Modrinth version number (or version ID):
+# it is installed at that version and never updated by build or import.
+# This file is the source of truth for sides. apply_sides.py enforces it after every build or import.
+# Lines ending with "# CHECK" use a slug I could not confirm; fix it if the script reports a failure.
+
+# --- core / libraries ---
+fabric-api both
+fabric-language-kotlin both
+balm both
+puzzles-lib both
+forge-config-api-port both
+resourceful-lib both
+glitchcore both
+terrablender both
+lithostitched both
+creativecore both
+polymer both
+addonslib both
+craterlib server
+fzzy-config both
+mezzconfig both
+cloth-config both
+placeholder-api both
+cryonicconfig both
+
+# --- proxy / admin (server only) ---
+fabricproxy-lite server
+luckperms server
+ledger server
+essential-commands server
+chunky server
+sdlink server
+
+# --- building ---
+axiom both 6.0.5
+dbtools both
+worldedit both
+worldedit-cui client
+chisel-reborn both
+diagonal-fences both
+immersive-paintings both
+holodisplays server
+
+# --- worldgen ---
+biomes-o-plenty both
+terralith both
+incendium both
+nullscape both
+
+# --- Macaw's ---
+macaws-biomes-o-plenty both
+macaws-bridges both
+macaws-doors both
+macaws-fences-and-walls both
+macaws-furniture both
+macaws-holidays both
+macaws-lights-and-lamps both
+macaws-paths-and-pavings both
+macaws-roofs both
+macaws-stairs both
+macaws-trapdoors both
+macaws-windows both
+
+# --- gameplay ---
+farmers-delight-refabricated both
+friends-and-foes both
+universal-graves both
+open-parties-and-claims both
+simple-voice-chat both
+waystones both
+travelersbackpack both
+cyberanner-ironchest both
+storagedrawers both
+carry-on both
+shogi both
+itemphysic both
+
+# --- info / QoL ---
+jei both
+jade both
+appleskin both
+xaeros-minimap client
+modmenu client
+bluemap server
+
+# --- performance ---
+lithium both
+ferrite-core both
+spark both
+sodium client
+entityculling client
+cull-leaves client
+
+# --- visuals / animations / shaders ---
+iris client
+entity-model-features client
+entitytexturefeatures client
+fresh-animations client   # resource pack
+not-enough-animations client
+fallingleaves client
+3dskinlayers client
+
+# --- menus / HUD ---
+fancymenu client
+drippy-loading-screen client
+spiffyhud client
+konkrete client
+melody client
+placeholder-api client
+cloth-config client

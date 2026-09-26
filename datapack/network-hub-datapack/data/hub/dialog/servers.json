@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:multi_action",
+  "title": { "text": "Menu Serveurs", "color": "gold", "bold": true },
+  "body": [
+    { "type": "minecraft:plain_message", "contents": { "text": "Tu veux aller où ?", "color": "gray" } }
+  ],
+  "columns": 1,
+  "can_close_with_escape": true,
+  "after_action": "close",
+  "actions": [
+    {
+      "label": { "text": "⛏ Île de Suzette", "color": "green" },
+      "tooltip": { "text": "Monde principal" },
+      "width": 220,
+      "action": { "type": "minecraft:run_command", "command": "server survival" }
+    },
+    {
+      "label": { "text": "✎ Build", "color": "aqua" },
+      "tooltip": { "text": "Monde flat pour tester ses builds. Axiom + WorldEdit" },
+      "width": 220,
+      "action": { "type": "minecraft:run_command", "command": "server flat" }
+    },
+    {
+      "label": { "text": "⚔ Jeux", "color": "light_purple" },
+      "tooltip": { "text": "Hikabrain, Dropper, Death Swap..." },
+      "width": 220,
+      "action": { "type": "minecraft:run_command", "command": "server games" }
+    }
+  ],
+  "exit_action": { "label": { "text": "Fermer" }, "width": 220 }
+}

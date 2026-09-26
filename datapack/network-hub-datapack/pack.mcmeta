@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Suze Network: item menu serveur et menu /trigger",
+    "min_format": 101,
+    "max_format": 200
+  }
+}

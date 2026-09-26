@@ -1,0 +1,13 @@
+name = "suze modpack"
+author = "gwendalos"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e67b9ca3817557733da0286ed8855266c83ea5b86f6fdfe98540c24fa73e833c"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"

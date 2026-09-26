@@ -1,0 +1,13 @@
+name = "FabricProxy-Lite"
+filename = "FabricProxy-Lite-2.12.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dI2tmqs/versions/CsEpiziv/FabricProxy-Lite-2.12.0.jar"
+hash-format = "sha512"
+hash = "b479c3ed1fe83929cad40e5c925ae2702da879b88a0271a24266cd21ecc037953f347cbe61ac7b7334e087544ee2ce5bf1f041fc3e64f50474404ad564c146f7"
+
+[update]
+[update.modrinth]
+mod-id = "8dI2tmqs"
+version = "CsEpiziv"
