@@ -1,7 +1,6 @@
 name = "HoloDisplays"
 filename = "holodisplays-0.5.1+26.2.jar"
 side = "server"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/WdbPWi13/versions/45KW22om/holodisplays-0.5.1%2B26.2.jar"

@@ -1,7 +1,6 @@
 name = "Macaw's Paths and Pavings"
 filename = "mcw-paths-1.1.1-mc26.2fabric.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/VRLhWB91/versions/LLYA3vec/mcw-paths-1.1.1-mc26.2fabric.jar"

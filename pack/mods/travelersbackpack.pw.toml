@@ -1,7 +1,6 @@
 name = "Traveler's Backpack"
 filename = "travelersbackpack-fabric-26.2-11.3.2.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rlloIFEV/versions/jp51VM8M/travelersbackpack-fabric-26.2-11.3.2.jar"

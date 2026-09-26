@@ -1,7 +1,6 @@
 name = "Incendium Legacy"
 filename = "Incendium_26.2_v5.5.1.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/vPwuqZ5y/Incendium_26.2_v5.5.1.jar"

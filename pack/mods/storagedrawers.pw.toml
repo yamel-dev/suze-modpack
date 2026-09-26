@@ -1,7 +1,6 @@
 name = "Storage Drawers"
 filename = "StorageDrawers-fabric-26.2.0.1.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/guitPqEi/versions/cJA3JdCZ/StorageDrawers-fabric-26.2.0.1.jar"

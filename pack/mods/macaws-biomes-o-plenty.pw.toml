@@ -1,7 +1,6 @@
 name = "Macaw's Biomes O' Plenty"
 filename = "mcwbiomesoplenty-fabric-26.2-1.6.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Tanquv9C/versions/ioSjHqPG/mcwbiomesoplenty-fabric-26.2-1.6.jar"

@@ -1,7 +1,6 @@
 name = "Waystones"
 filename = "waystones-fabric-26.2-26.2.0.12.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/HUacBshD/waystones-fabric-26.2-26.2.0.12.jar"

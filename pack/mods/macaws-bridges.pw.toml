@@ -1,7 +1,6 @@
 name = "Macaw's Bridges"
 filename = "mcw-bridges-3.1.2-mc26.2fabric.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/GURcjz8O/versions/O570Yvic/mcw-bridges-3.1.2-mc26.2fabric.jar"

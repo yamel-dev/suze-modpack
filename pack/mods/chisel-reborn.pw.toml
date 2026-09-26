@@ -1,7 +1,6 @@
 name = "Chisel Reborn"
 filename = "chisel-fabric-2.2.1+mc26.2.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/cKJTN55Z/chisel-fabric-2.2.1%2Bmc26.2.jar"

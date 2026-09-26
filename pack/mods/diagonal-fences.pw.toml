@@ -1,7 +1,6 @@
 name = "Diagonal Fences"
 filename = "DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/IKARgflD/versions/XxnvsgPA/DiagonalFences-v26.2.0-mc26.2.x-Fabric.jar"

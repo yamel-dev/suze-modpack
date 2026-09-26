@@ -1,7 +1,6 @@
 name = "ItemPhysic"
 filename = "ItemPhysic_FABRIC_v1.8.15_mc26.2.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/aT8BzaOj/versions/a7vcCKc2/ItemPhysic_FABRIC_v1.8.15_mc26.2.jar"

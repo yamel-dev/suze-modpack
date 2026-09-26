@@ -1,7 +1,6 @@
 name = "[ETF] Entity Texture Features"
 filename = "entity_texture_features-7.2.4-26.2-fabric.jar"
 side = "client"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/sTno2gjm/entity_texture_features-7.2.4-26.2-fabric.jar"

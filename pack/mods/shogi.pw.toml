@@ -1,7 +1,6 @@
 name = "Shogi"
 filename = "shogi-fabric-26.2-26.2.0.8.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/bi4iCmsw/versions/kjPMnetX/shogi-fabric-26.2-26.2.0.8.jar"

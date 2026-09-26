@@ -1,7 +1,6 @@
 name = "Falling Leaves"
 filename = "fallingleaves-2.0.7+26.1.jar"
 side = "client"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/JYRSvzQW/fallingleaves-2.0.7%2B26.1.jar"
