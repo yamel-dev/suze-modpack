@@ -426,6 +426,11 @@ hash = "3fb92a57df15b1def0b0e99a37e6d83469281aac44990dd6b0e39a33718f4554"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "c26f8da8b6f013fb7e917e29fc6ae783eb379c539da12d9d61196bc762fd26e1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "decce083506ff9ce84145b24e1976ea847d778ac9831eb6f88d81bf844f1a16c"
 metafile = true
