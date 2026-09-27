@@ -1,6 +1,7 @@
 name = "DBTools for Axiom"
 filename = "DBTools-2.3.0+MC26.2-AX6.0.5.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/6SWRzDjk/versions/H4P6sMwE/DBTools-2.3.0%2BMC26.2-AX6.0.5.jar"

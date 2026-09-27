@@ -1,6 +1,7 @@
 name = "Chunky"
 filename = "Chunky-Fabric-1.5.3.jar"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/fALzjamp/versions/4Eotm6ov/Chunky-Fabric-1.5.3.jar"

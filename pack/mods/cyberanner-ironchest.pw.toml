@@ -1,6 +1,7 @@
 name = "Iron Chests"
 filename = "IronChests-2.0.8.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/7mHyGgvW/versions/DIa6W22M/IronChests-2.0.8.jar"

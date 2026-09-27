@@ -1,6 +1,7 @@
 name = "Just Enough Items (JEI)"
 filename = "jei-26.2-fabric-30.38.0.230.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/1k2V4h4s/jei-26.2-fabric-30.38.0.230.jar"

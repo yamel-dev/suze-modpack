@@ -1,6 +1,7 @@
 name = "GlitchCore"
 filename = "GlitchCore-fabric-26.2-26.2.0.0.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/SDUCBYRU/GlitchCore-fabric-26.2-26.2.0.0.0.jar"

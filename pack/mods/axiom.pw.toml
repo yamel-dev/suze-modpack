@@ -1,6 +1,7 @@
 name = "Axiom"
 filename = "Axiom-6.0.5-for-MC26.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/o59cWLPI/Axiom-6.0.5-for-MC26.2.jar"
