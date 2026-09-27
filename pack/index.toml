@@ -66,6 +66,10 @@ hash = "1fd22168fa8423a15dde8255f5d1073b92dc634b88971f8aa0a4b5307566f7ed"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch-0.2.0+26.2.jar"
+hash = "1971780d859906f664d5825646e67d6fe60651d12c91bc83f3fea67b38b384a9"
+
+[[files]]
 file = "mods/crossstitch-custom.pw.toml"
 hash = "4a2244fc24a216dde7055b65a7839a43912dcd7d389a00d7d480143640a0d952"
 metafile = true
@@ -427,10 +431,14 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "c26f8da8b6f013fb7e917e29fc6ae783eb379c539da12d9d61196bc762fd26e1"
+hash = "96800801031af7e90970a063ade2aab615b5d0d7bf83ed707e926a5c8adf20c7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "decce083506ff9ce84145b24e1976ea847d778ac9831eb6f88d81bf844f1a16c"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8f8b992399160962e8e0affaf5c923adefb1f284db66c944cc800643a6fdde2d"
