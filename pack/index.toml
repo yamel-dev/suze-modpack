@@ -68,6 +68,7 @@ metafile = true
 [[files]]
 file = "mods/crossstitch-custom.pw.toml"
 hash = "4a2244fc24a216dde7055b65a7839a43912dcd7d389a00d7d480143640a0d952"
+metafile = true
 
 [[files]]
 file = "mods/cryonicconfig.pw.toml"
