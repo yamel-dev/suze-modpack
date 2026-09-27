@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "bbbaa3ef5dce2f05f4afe2bba744c928824076201cd0d170f14a7bfb16709f4b"
+hash = "07300bbd277342ec439ae3d4d965baba11afb72efda9cd188d618528090d03e1"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dbtools.pw.toml"
-hash = "95b48d44eec4bf44de47a57452801b584267ad43b82f5fe9c540d43b72c64206"
+hash = "2d1ce443e8ba8ab5f5f4d6858b5e381c6386cf0813e56dfae4bb83c6929740e1"
 metafile = true
 
 [[files]]
