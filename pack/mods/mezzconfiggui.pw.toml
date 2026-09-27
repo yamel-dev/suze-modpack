@@ -1,0 +1,14 @@
+name = "MezzConfigGUI"
+filename = "mezz_config_gui-26.2-fabric-mc26.2-0.5.2.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "149eff94829bad7f88161eeb00eea94e4794e726"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8936606
+project-id = 1700987

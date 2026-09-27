@@ -306,6 +306,11 @@ hash = "56d6235462a48c046b09ee058330f4b86ab1b4c2a0e1efc98c757dd4c7605f89"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfiggui.pw.toml"
+hash = "de60faf532396cd697256231047d57780637d8ad4a2f170573a8990a08575832"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "1d4ac7b422964eb9611c59bf5ca09546c4e33c378063d9b558dc0f1a091c3c04"
 metafile = true
