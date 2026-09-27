@@ -1,0 +1,10 @@
+name = "CrossStitch"
+filename = "crossstitch-0.2.0+26.2.jar"
+side = "server"
+
+[download]
+url = "https://yamel-dev.github.io/suze-modpack/pack/mods/crossstitch-0.2.0+26.2.jar"
+
+
+hash-format = "sha512"
+hash = "264329501fbf426b4284ff6b31b59d2bd18b46b5698d2e9cc06d9b837516aa40c493d4cb503f504bc7e31f11c5e93335b0f9bce515db78fd16a6cca2ec7a07ab"

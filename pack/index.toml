@@ -66,6 +66,10 @@ hash = "1fd22168fa8423a15dde8255f5d1073b92dc634b88971f8aa0a4b5307566f7ed"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch-custom.pw.toml"
+hash = "4a2244fc24a216dde7055b65a7839a43912dcd7d389a00d7d480143640a0d952"
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "b2a876c67e9619980a182fc2b57c8778b4e8d82f00eeef3a837d55377ef524d6"
 metafile = true
