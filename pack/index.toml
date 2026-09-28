@@ -246,6 +246,11 @@ hash = "a8332aa8b49a6134d1e42b1d929b2997790339b8479effb3f55cc7db8dee7c10"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "737265495e3e1727d41d80ae57acbd8839e243331f0d2057a77433088e66c028"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e6a44d52067a3613c24a1a010c51bb0774584fc8bfb517d771183c97ca348509"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "e5738d182337b65d08917b7053a3a06580871872e5742d747cff268fbd5406fe"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
 metafile = true
 
 [[files]]
@@ -453,6 +463,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e2c88edaf7f1b8fc1cd80161328b491ba871ca72d30406151b9ba192ce5836e7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ced90938fd1163665019ffdc09a3c44f1b2b0eef963ac1e8abac5ee410978612"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ac83294a5d1dbc0a9b1c54c5ae045c43e6ad9369cc33600abdb7f28b5d684fd5"
 metafile = true
 
 [[files]]
