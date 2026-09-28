@@ -66,10 +66,6 @@ hash = "1fd22168fa8423a15dde8255f5d1073b92dc634b88971f8aa0a4b5307566f7ed"
 metafile = true
 
 [[files]]
-file = "mods/crossstitch-0.2.0+26.2.jar"
-hash = "1971780d859906f664d5825646e67d6fe60651d12c91bc83f3fea67b38b384a9"
-
-[[files]]
 file = "mods/crossstitch-custom.pw.toml"
 hash = "4a2244fc24a216dde7055b65a7839a43912dcd7d389a00d7d480143640a0d952"
 metafile = true
@@ -106,17 +102,17 @@ metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "2bd5c1ef5b135d7ac9d837c3dc110ad0e82b25e507bcee73d370962793ebd497"
+hash = "399eda4f0f9e885a21e006859f4913938ecd4dfcd7a5af4df354b9eecb8ab737"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "db0bec7cb27f73c772a21bee1172bb57bbdf2e473f022cdfee81ed27dd49f37f"
+hash = "86c9c61b429e7a757c608aa2c7bfbcc968b41c00d209e2ef752ad60c8ea3add8"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "ebfc2c66f7e11a5833e40c0a1285c84886bea5766ec36bf5448db9f8d234a486"
+hash = "086b9172163be968443a250daff5ef39645d7b01617bddb0e02dcdb8bb6e39f1"
 metafile = true
 
 [[files]]
@@ -141,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.pw.toml"
-hash = "3948946f5b3268deb14d54b3155f71d4a2c3226de9e1f0df94f98e4dfe91b633"
+hash = "4743d70e8fa5586227fe8d2d1bb9766a6dd93df74ea146f343a5a85f949cbb72"
 metafile = true
 
 [[files]]
@@ -241,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a5a49f16c46123806cd53726bf7f99e0a1b250293a4492f695944afc8bd32fb2"
+hash = "fa4252521b855c796545500c5ef0a6006f0280588cdf44c6b76b755a0152f554"
 metafile = true
 
 [[files]]
@@ -456,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7716487476fac035a255d467e3a85b033189f3e098a79ecff251b1bdc2190d2e"
+hash = "e2c88edaf7f1b8fc1cd80161328b491ba871ca72d30406151b9ba192ce5836e7"
 metafile = true
 
 [[files]]
@@ -468,7 +464,3 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "decce083506ff9ce84145b24e1976ea847d778ac9831eb6f88d81bf844f1a16c"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "8f8b992399160962e8e0affaf5c923adefb1f284db66c944cc800643a6fdde2d"
