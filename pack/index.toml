@@ -105,6 +105,21 @@ hash = "2e70c156b9f5fd7b1cb1d1baca5e4fcb8f098444880de7ef8d89fe629aa60947"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "2bd5c1ef5b135d7ac9d837c3dc110ad0e82b25e507bcee73d370962793ebd497"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "db0bec7cb27f73c772a21bee1172bb57bbdf2e473f022cdfee81ed27dd49f37f"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "ebfc2c66f7e11a5833e40c0a1285c84886bea5766ec36bf5448db9f8d234a486"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "048f98b35ea0bf11d519e4cac2ce49d0132babe3652f5ea50116a9ebbbca5fac"
 metafile = true
@@ -122,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "1140a7557602f9aed090823b00a0f19bd1de0fbb16dd0f06b39065322d537aa4"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "3948946f5b3268deb14d54b3155f71d4a2c3226de9e1f0df94f98e4dfe91b633"
 metafile = true
 
 [[files]]
@@ -217,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "211a32c7a33cbba1161c23d092de0d7e822062b843a1d69258c06a20d9adabb9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a5a49f16c46123806cd53726bf7f99e0a1b250293a4492f695944afc8bd32fb2"
 metafile = true
 
 [[files]]
@@ -427,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "3fb92a57df15b1def0b0e99a37e6d83469281aac44990dd6b0e39a33718f4554"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7716487476fac035a255d467e3a85b033189f3e098a79ecff251b1bdc2190d2e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,14 @@
+name = "Easy NPC: Core"
+filename = "easy_npc-fabric-26.2-7.12.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/Epm6R3P2/versions/iqouCJp1/easy_npc-fabric-26.2-7.12.1.jar"
+hash-format = "sha512"
+hash = "727596f36b6c06ed37e53d2d1289108e2c3573e7e4772d22b788f36956a883d8245729b498afdc24899a96985db9ca498a387c26ab6bd25c4f8c31d0886a2bb7"
+
+[update]
+[update.modrinth]
+mod-id = "Epm6R3P2"
+version = "iqouCJp1"

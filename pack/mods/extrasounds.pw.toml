@@ -1,0 +1,14 @@
+name = "ExtraSounds"
+filename = "extrasounds-3.0.1+26.2-build.1.jar"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/uPWCQrVL/versions/4tJroa66/extrasounds-3.0.1%2B26.2-build.1.jar"
+hash-format = "sha512"
+hash = "a05cd053bd055e5ef8c1cb16acfe6c4b1387c3e8f3be76780bff86eee40281a900daac78b661dfbaadfff3d85486d9e8565fcb987037029b20617b9666d0f4ee"
+
+[update]
+[update.modrinth]
+mod-id = "uPWCQrVL"
+version = "4tJroa66"
