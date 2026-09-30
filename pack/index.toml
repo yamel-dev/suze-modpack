@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "737265495e3e1727d41d80ae57acbd8839e243331f0d2057a77433088e66c028"
+hash = "432ed350e7d2575dee33a06456f553cda91a180987906ca0697f75371fd4cdee"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
+hash = "7c555f491886b0f422b8b84788ff0aba51f89183c88684e827e34695878a26a7"
 metafile = true
 
 [[files]]
@@ -467,12 +467,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ced90938fd1163665019ffdc09a3c44f1b2b0eef963ac1e8abac5ee410978612"
+hash = "a506cfa3b0f498bccc2c224a80811937878445bf0c763b75ad09ca3862e1dab3"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ac83294a5d1dbc0a9b1c54c5ae045c43e6ad9369cc33600abdb7f28b5d684fd5"
+hash = "9807c1c3d41ac977240116f4d29ae926d4208d0462c3c5e120c0569b9e054825"
 metafile = true
 
 [[files]]
