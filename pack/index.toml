@@ -231,6 +231,11 @@ hash = "387c5bc628eeffdfe51e64620dcf88c2f960f39c3e62ec886d15a6961e617d1c"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "b3a52685e9f57cb27e7e9565a8134a1c8ec32d6eecf0870b132d932432809d31"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "211a32c7a33cbba1161c23d092de0d7e822062b843a1d69258c06a20d9adabb9"
 metafile = true
