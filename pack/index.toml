@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/bl4cks-sit.pw.toml"
-hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+hash = "82dc54c2dbc3d24c6ef75a42bc52c96b39bd0da613eb8a0b91a6bc59791cebfe"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "ebd39795ff6ce6ae099c1dd6d1d2fede542c81389e7c6d3bbe0369a733039200"
+hash = "22bf11e77be936cea6baa7e6f58b435010a262dacd53000553720c20768d58e6"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "3e4d788583a36e9d145407fadce148f037e5229bff430f7dcd281d4d426c9ee6"
+hash = "7ffffe3dd3e34ac82bcb4ae2c2cff8b1e178a6298b41d70e5db8df73d3f0ee3a"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "b8f31c192c76be39a365a5a80d0559332594c5fcaaab69598a5c8d3a62b580e8"
+hash = "27507638b61f372eaf02ad87338247a20e1df4cf12d7a53e86db1a46e4c9bef9"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "134303d10c611ed60be16ca8b869e29d9f956923d2923b5e8f179b5b1f471394"
+hash = "6908da55c13136cda75e9c40c9e1978b172c5b02df9767ad606321625bdd5b7d"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "810fe4980a530d12b707841396dbccce4f7a9001c05e73c989a4be1868839168"
+hash = "f35b18aae8621765c3474d2baf410c4cd706549134f0fce660d0dec7487b2622"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "433b0748e630c3b7fb138fa12e8669f2b90f5985cbd78ce61ac52ddd0956219e"
+hash = "24f5a18123415f0e488092353ce322f423f91ff30dde5e6929e34f2a9c22bf4c"
 metafile = true
 
 [[files]]
@@ -467,17 +467,17 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
+hash = "9286c0b4f6adf3e0c983a055b735d0d8b93f8d91c42e46e31d019eedd726e855"
 metafile = true
 
 [[files]]
 file = "mods/ukulib.pw.toml"
-hash = "c587d688290148bae9a118ac5f5901d66002056c9e47207acc75b2d7a1dad603"
+hash = "5ef79e9f2a080c891a2a0615a60f6cd4cc8a124453ab333cc9c4b357202fe13a"
 metafile = true
 
 [[files]]
 file = "mods/ukus-armor-hud.pw.toml"
-hash = "8de71c1dd06c74a4645a2dbfa8ead390c3598247b2df44211eac645753b3ba78"
+hash = "858eae671bc693d03cdb1b5218f0d0778fd2504a229a163aaf1dac36450d1084"
 metafile = true
 
 [[files]]
