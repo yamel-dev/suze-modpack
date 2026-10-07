@@ -31,6 +31,11 @@ hash = "f23230af41099a05df4d52d58e78712153fb34cb81b7e6d1e6196a44ca1bcf53"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "88367bf613f5987cc4793b270d13b99d7a5e4a78194b56e4a0745cbabb4b3fc6"
 metafile = true
@@ -51,8 +56,18 @@ hash = "7f10502751db064cc56f710f5248da5481dea54166ed2ca37a2d18a6b05fa6b0"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "ebd39795ff6ce6ae099c1dd6d1d2fede542c81389e7c6d3bbe0369a733039200"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "706d647d8ee4f36c68d4dc76f539242d3e987398a44c1f6154f5ad2c2471d1df"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3e4d788583a36e9d145407fadce148f037e5229bff430f7dcd281d4d426c9ee6"
 metafile = true
 
 [[files]]
@@ -91,8 +106,8 @@ hash = "92356b62d85051fb001a33fe578e0262e6b1a7a2de9a7efe4b99f62de663e03c"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "a859e4bac8a2aacf997956f39dbee1ad9da48c0c68a2702e967253fbb05dfb05"
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "b8f31c192c76be39a365a5a80d0559332594c5fcaaab69598a5c8d3a62b580e8"
 metafile = true
 
 [[files]]
@@ -113,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "086b9172163be968443a250daff5ef39645d7b01617bddb0e02dcdb8bb6e39f1"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "134303d10c611ed60be16ca8b869e29d9f956923d2923b5e8f179b5b1f471394"
 metafile = true
 
 [[files]]
@@ -211,6 +231,11 @@ hash = "affe1d24c2906124f0c0870e8ad0db34589c2d00b518e779b542b31063bea78f"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "810fe4980a530d12b707841396dbccce4f7a9001c05e73c989a4be1868839168"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "1a51b097cff3f9bc247c9d9f37af04bf0ba7d5853bb19b9990a76852a6b5d6b7"
 metafile = true
@@ -248,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "a8332aa8b49a6134d1e42b1d929b2997790339b8479effb3f55cc7db8dee7c10"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "433b0748e630c3b7fb138fa12e8669f2b90f5985cbd78ce61ac52ddd0956219e"
 metafile = true
 
 [[files]]
@@ -421,11 +451,6 @@ hash = "5bfaec748c6ca3fd9796183d28cf390a1aaefbd16ff5e62e2230007d0d454005"
 metafile = true
 
 [[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "676faa0b69737d711728ebe29e24b4e0682dde9c828f5665ad7edc317a005475"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "6844c734385b4fda757cd5955977b66874a8f5573641622be5fd63fb054260c7"
 metafile = true
@@ -438,6 +463,21 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "6a551bc5d0951fde7b0711708ba89358413864656c201c04528ff6bb6d8c843f"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "c587d688290148bae9a118ac5f5901d66002056c9e47207acc75b2d7a1dad603"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "8de71c1dd06c74a4645a2dbfa8ead390c3598247b2df44211eac645753b3ba78"
 metafile = true
 
 [[files]]
