@@ -466,11 +466,6 @@ hash = "62516a05302c4e0c35bd98fe46774174b65282b5ea1b460b78b3be9cf7c67517"
 metafile = true
 
 [[files]]
-file = "mods/survival-debug-stick.pw.toml"
-hash = "be40f385d7d59bb407d7d2fd16bbddbf75a386a418046485da47eab1296d3a94"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "6844c734385b4fda757cd5955977b66874a8f5573641622be5fd63fb054260c7"
 metafile = true
