@@ -31,11 +31,6 @@ hash = "f23230af41099a05df4d52d58e78712153fb34cb81b7e6d1e6196a44ca1bcf53"
 metafile = true
 
 [[files]]
-file = "mods/bl4cks-sit.pw.toml"
-hash = "82dc54c2dbc3d24c6ef75a42bc52c96b39bd0da613eb8a0b91a6bc59791cebfe"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "88367bf613f5987cc4793b270d13b99d7a5e4a78194b56e4a0745cbabb4b3fc6"
 metafile = true
