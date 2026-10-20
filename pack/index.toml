@@ -51,6 +51,11 @@ hash = "cb5c5275e781c67bd662ec7652016b8bf8472f13ec23d6d7d799107d90dfb5a5"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "18e727b62af53b7163285d95bf4e6cbea04a6a6653b9454afad8dbccd0619e85"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7f10502751db064cc56f710f5248da5481dea54166ed2ca37a2d18a6b05fa6b0"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "7ffffe3dd3e34ac82bcb4ae2c2cff8b1e178a6298b41d70e5db8df73d3f0ee3a"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "66854cbf5ff362326ff8abca8581413fd5cb4ada83393f33d923472f2a9cf9d6"
 metafile = true
 
 [[files]]
@@ -446,6 +456,16 @@ hash = "5bfaec748c6ca3fd9796183d28cf390a1aaefbd16ff5e62e2230007d0d454005"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fc5b46a917affcb3378d7064adae2adcf385bffdadc772fec0f44e5152629944"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "62516a05302c4e0c35bd98fe46774174b65282b5ea1b460b78b3be9cf7c67517"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "6844c734385b4fda757cd5955977b66874a8f5573641622be5fd63fb054260c7"
 metafile = true
@@ -473,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/ukus-armor-hud.pw.toml"
 hash = "858eae671bc693d03cdb1b5218f0d0778fd2504a229a163aaf1dac36450d1084"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "51c4e3e53db6c3e142f489a54426af1f89512455f99a0de7afa8a4f60b901c1e"
 metafile = true
 
 [[files]]
